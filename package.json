@@ -1,7 +1,7 @@
 {
     "name": "@daganx/modal-package",
-    "version": "1.0.7",
-    "description": "A modal component for React applications", 
+    "version": "1.0.8",
+    "description": "A modal component for React applications",
     "main": "lib/index.js",
     "files": [
         "lib",
