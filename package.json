@@ -2,7 +2,7 @@
     "name": "@daganx/modal-package",
     "version": "1.0.9",
     "description": "A modal component for Health Wealth By Dagan",
-    "keywords": ["modal","package",""],
+    "keywords": ["modal","package"],
     "main": "lib/index.js",
     "files": [
         "lib",
