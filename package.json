@@ -1,12 +1,14 @@
 {
     "name": "@daganx/modal-package",
-    "version": "1.0.8",
-    "description": "A modal component for React applications",
+    "version": "1.0.9",
+    "description": "A modal component for Health Wealth By Dagan",
+    "keywords": ["modal","package",""],
     "main": "lib/index.js",
     "files": [
         "lib",
         "package.json",
-        "index.js"
+        "index.js",
+        "README.md"
     ],
     "scripts": {
         "build": "babel src -d lib"
